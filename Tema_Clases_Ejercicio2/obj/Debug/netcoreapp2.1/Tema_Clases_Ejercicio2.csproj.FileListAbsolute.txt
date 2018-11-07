@@ -1,0 +1,11 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\bin\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\bin\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.runtimeconfig.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\bin\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.runtimeconfig.dev.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\bin\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\bin\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\obj\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\obj\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\obj\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\obj\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\obj\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Ejercicios_Tecsup\Tema_Clases_Ejercicio2\Tema_Clases_Ejercicio2\obj\Debug\netcoreapp2.1\Tema_Clases_Ejercicio2.pdb
